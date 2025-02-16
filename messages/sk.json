@@ -1,0 +1,15 @@
+{
+  "HomePage": {
+    "calculateAge": "Vypočítajte vek vášho bábätka",
+    "is-age": "má",
+    "weeks-old-age": "týždňov",
+    "was-born-on": "sa narodil(a) dňa",
+    "birthday-todatestring": "{birthday, date, medium}"
+  },
+  "NewPage": {
+    "name": "Meno",
+    "birthday": "Dátum narodenia",
+    "submit": "Vypočítať"
+  },
+  "loading": "Načítavam..."
+}

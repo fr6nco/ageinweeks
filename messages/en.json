@@ -1,0 +1,15 @@
+{
+  "HomePage": {
+    "calculateAge": "Calculate your baby's age",
+    "is-age": "is",
+    "weeks-old-age": "weeks old",
+    "was-born-on": "was born on",
+    "birthday-todatestring": "{birthday, date, medium}"
+  },
+  "NewPage": {
+    "name": "Name",
+    "birthday": "Day of Birth",
+    "submit": "Submit"
+  },
+  "loading": "Loading..."
+}
